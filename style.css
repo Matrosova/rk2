@@ -92,3 +92,25 @@ a:visited{
     background-color: #3D405B;
     transition: 0.5s;
 }
+/*about*/
+
+.about__title{
+    margin-top: 0.938em	;
+    text-align: center  ;
+    font-size: 45px;
+    margin-bottom: 80px;
+}
+
+.about__pic{
+    float:left; 
+    margin: 7px 7px 7px 0;
+}
+
+.text, .text2, .text3{  
+    border: 10px inset #F2CC8F;
+    padding: 5px; 
+    margin: 75px; 
+    margin-left: 1000px;
+    font-size: 25px;
+    overflow-x: hidden;
+}
